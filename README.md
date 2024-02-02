@@ -1,2 +1,3 @@
 # NumpyGiris
-Bu çalışma, NumPy kütüphanesini öğrenme sürecimde oluşturduğum çalışma örneklerini içermektedir. Dosyada, NumPy'nin temel işlevleri ve uygulamalarıyla ilgili notlar, kodlar ve örnekler bulunmaktadır.
+
+Bu GitHub Repository'si, NumPy kütüphanesini öğrenmek ve uygulamak için oluşturulan .jpynb dosyasını içermektedir. Dosya içeriği, NumPy'nin temel fonksiyonlarını ve kullanımını anlamak için yazılmış Python kodları, açıklamalar ve örnekler içermektedir. Bu dosya, NumPy'nin çeşitli konseptlerini öğrenmek ve pratik yapmak isteyenler için bir kaynak olarak kullanılabilir. 
