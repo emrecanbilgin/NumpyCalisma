@@ -6,6 +6,3 @@ Ayrıca, bu repoya www.DataCamp.com'dan aldığım ve severek kullandığım Num
 
 Bu dosyaları hazırlarken, (2020) Python ile Makine Öğrenmesi kursundan ve diğer faydalı kaynaklardan yararlandım. Kendi öğrenme ve geliştirme sürecimde kullanmış olduğum bu dosyaları burada paylaşarak başkalarının da faydalanmasını umuyorum.
 
-Eğer bu repoyu beğendiyseniz, yıldız eklemek ve paylaşmak beni motive eder. Herhangi bir geri bildirim veya katkıda bulunmak isterseniz, lütfen iletişime geçmekten çekinmeyin.
-
-Teşekkürler!
